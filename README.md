@@ -8,7 +8,7 @@ A simple example for how to integrate Salesforce using Apache Camel.
 - Setup environment and path variables as per the official documentation.
 
 # Salesforce Setup
-1. Create a new Salesforce Developer account [here](https://developer.salesforce.com/signup).
+1. Use an existing Salesforce Developer account or create a new one [here](https://developer.salesforce.com/signup).
 
 2. Create a new connected app in Salesforce. 
     - Enable OAuth Settings
